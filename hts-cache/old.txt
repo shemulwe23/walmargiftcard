@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:24:27	109/109	---MCZ	404	error ('Not%20Found')	text/html	date:Tue,%2026%20May%202020%2021:49:47%20GMT	https://backforyou.best/robots.txt		(from )
+03:24:27	564/564	---MCZ	404	error ('Not%20Found')	text/html	date:Tue,%2026%20May%202020%2021:49:48%20GMT	https://backforyou.best/en1/walmart/?c=2z0zyrxmz0z1z0z0&key=80245256162b83497dd3e9bbf938700b	D:/Copy%20landings/Walmart/backforyou.best/en1/walmart/indexe8bf.html	(from )
